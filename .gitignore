@@ -1,0 +1,6 @@
+vscode.session.sql
+/.vscode
+/target
+/data
+.env
+music2map/
